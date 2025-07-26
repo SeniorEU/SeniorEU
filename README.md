@@ -2,7 +2,6 @@
 ## I'm a *Junior QA Automation Engineer* based in Czech Republic (open to remote & hybrid).
 ### Languages and Technologies
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=selenium)
 ![Playwright](https://img.shields.io/badge/-Playwright-090909?style=for-the-badge&logo=microsoft)
 ![JMeter](https://img.shields.io/badge/-JMeter-090909?style=for-the-badge&logo=apachejmeter)
