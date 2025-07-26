@@ -1,5 +1,7 @@
 # 👋🏼 Hi, my name is **Ivan Nikitenko**!
-## I'm a *Junior QA Automation Engineer* based in Czech Republic (open to remote & hybrid).
+## I'm a *Junior QA Automation Engineer* currently based in the Czech Republic 🇨🇿, actively looking for a position in QA Automation across Europe.  
+Open to **remote**, **hybrid**, and **on-site** roles.  
+Passionate about building clean, reliable test automation using Python, Selenium, and Playwright. I'm a *Junior QA Automation Engineer* based in Czech Republic (open to remote & hybrid).
 ### Languages and Technologies
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=selenium)
