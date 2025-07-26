@@ -1,6 +1,6 @@
 # 👋🏼 Hi, my name is **Ivan Nikitenko**!
 ## I'm a *Junior QA Automation Engineer* currently based in the Czech Republic. 
-## Actively looking for a position in QA Automation across Europe.  
+### Actively looking for a position in QA Automation across Europe.  
 Open to **remote**, **hybrid**, and **on-site** roles.  
 
 ### Languages and Technologies
