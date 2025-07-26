@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋🏼 Hi, my name is **Ivan Nikitenko**!
+## I'm a *Junior QA Automation Engineer* based in Czech Republic (open to remote & hybrid).
+### Languages and Technologies
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=selenium)
+![Playwright](https://img.shields.io/badge/-Playwright-090909?style=for-the-badge&logo=microsoft)
+![JMeter](https://img.shields.io/badge/-JMeter-090909?style=for-the-badge&logo=apachejmeter)
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
+![MS SQL](https://img.shields.io/badge/-MS--SQL-090909?style=for-the-badge&logo=microsoftsqlserver)
+![API](https://img.shields.io/badge/-REST&#32;API-090909?style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 
-<!--
-**SeniorEU/SeniorEU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 Reach me at: **ivan.nikitenko@gmail.com**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Talk is cheap. Show me the code. <br/>
+> ***Linus Torvalds***
