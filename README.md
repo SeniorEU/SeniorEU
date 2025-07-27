@@ -18,5 +18,6 @@ Open to **remote**, **hybrid**, and **on-site** opportunities.
 
 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/ivannikitenko/)
 
+
 > Talk is cheap. Show me the code. <br/>
 > ***Linus Torvalds***
