@@ -14,9 +14,11 @@ Open to **remote**, **hybrid**, and **on-site** opportunities.
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 
-📫 Reach me at: **ivan.nikitenko@gmail.com**  
-🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/ivannikitenko/)  
+📫 Reach me at: **ivan.nikitenko@gmail.com** 
+
 🌐 Visit my website: [ivan-nikitenko.com](https://ivan-nikitenko.com)
+
+🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/ivannikitenko/)  
 
 
 > Talk is cheap. Show me the code. <br/>
