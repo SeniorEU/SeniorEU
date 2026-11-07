@@ -1,25 +1,12 @@
-# 👋🏼 Hi, my name is **Ivan Nikitenko**!
-## I'm a Junior QA Automation Engineer currently based in the Czech Republic 🇨🇿.  
-### Actively seeking a QA Automation role across Europe.  
-Open to **remote**, **hybrid**, and **on-site** opportunities. 
+## Ivan Nikitenko, Ing.
 
-### Languages and Technologies
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
-![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=selenium)
-![Playwright](https://img.shields.io/badge/-Playwright-090909?style=for-the-badge&logo=microsoft)
-![JMeter](https://img.shields.io/badge/-JMeter-090909?style=for-the-badge&logo=apachejmeter)
-![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
-![MS SQL](https://img.shields.io/badge/-MS--SQL-090909?style=for-the-badge&logo=microsoftsqlserver)
-![API](https://img.shields.io/badge/-REST&#32;API-090909?style=for-the-badge)
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+Managing Director (jednatel) of **FEROXO WELDING s.r.o.**, České Budějovice, Czech Republic.
 
-📫 Reach me at: **ivan.nikitenko@gmail.com** 
+FEROXO WELDING s.r.o. is the importer and distributor of SHINDAIWA (Yamabiko Corporation, Japan) diesel engine-driven welders and generators, and a distributor of LINCOLN ELECTRIC welding equipment in the Czech Republic.
 
-🌐 Visit my website: [ivan-nikitenko.com](https://ivan-nikitenko.com)
+- Website: [feroxo.cz](https://feroxo.cz)
+- E-mail: info@feroxo.cz
 
-🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/ivannikitenko/)  
-
-
-> Talk is cheap. Show me the code. <br/>
-> ***Linus Torvalds***
+### Technical background
+QA automation and web development: Python, Selenium, Playwright, JMeter, Postman, SQL, REST API, HTML, CSS.
+The repositories below are my test-automation and web projects.
