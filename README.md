@@ -2,7 +2,7 @@
 
 Managing Director (jednatel) of **FEROXO WELDING s.r.o.**, České Budějovice, Czech Republic.
 
-FEROXO WELDING s.r.o. is the importer and distributor of SHINDAIWA (Yamabiko Corporation, Japan) diesel engine-driven welders and generators in the Czech Republic.
+FEROXO WELDING s.r.o. is the importer and distributor of SHINDAIWA (Yamabiko Corporation, Japan) diesel engine-driven welders and generators, and a distributor of LINCOLN ELECTRIC welding equipment in the Czech Republic.
 
 - Website: [feroxo.cz](https://feroxo.cz)
 - E-mail: info@feroxo.cz
